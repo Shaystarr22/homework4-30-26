@@ -38,4 +38,4 @@ terraform apply -var="project_id=YOUR_PROJECT_ID"
 - main.tf and outputs.tf were accidentally created in root folder and had to be moved to kenya/
 
 ## Screenshot
-[add screenshot of successful terraform apply here]
+![terraform apply output](https://github.com/user-attachments/assets/9b2f095c-0248-4b0b-931a-b1c9f39eddde)
